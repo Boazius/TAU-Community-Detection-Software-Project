@@ -1,7 +1,9 @@
 # Community Structure in Networks Detection
+Developed in the C programming language for the Tel Aviv University Software Project Course in 2020/2021 <br>
+See [Project PDF](https://github.com/Boazius/TAU-Community-Detection-Software-Project/blob/main/sp_project.pdf) for full project specification
 
 ## Introduction
-This project, developed in the C programming language for the Tel Aviv University Software Project Course in 2020/2021, implements an algorithm for detecting community structures, or clusters, in a network. These are groups of nodes within a network that have dense internal connections and sparser connections between groups. Identifying such structures is crucial in many fields, such as biology for understanding protein interactions.
+This project, implements an algorithm for detecting community structures, or clusters, in a network. These are groups of nodes within a network that have dense internal connections and sparser connections between groups. Identifying such structures is crucial in many fields, such as biology for understanding protein interactions.
 This project provides a robust tool for community detection in complex networks, which is essential for the modular understanding of various real-world networks.
 
 ## Algorithm Description
